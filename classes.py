@@ -1,2 +1,0 @@
-#classes
-#def class serverfile:
