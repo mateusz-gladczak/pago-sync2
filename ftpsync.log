@@ -1,705 +1,112 @@
-05/16/2019 07:44:03 PM -------------------------------
-05/16/2019 07:44:03 PM starting ssh session to 10.0.10.50
-05/16/2019 07:44:03 PM initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-05/16/2019 07:44:03 PM Connected (version 2.0, client OpenSSH_7.6p1)
-05/16/2019 07:44:05 PM Authentication (password) failed.
-05/16/2019 07:44:38 PM -------------------------------
-05/16/2019 07:44:38 PM starting ssh session to 10.0.10.50
-05/16/2019 07:44:38 PM initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-05/16/2019 07:44:38 PM Connected (version 2.0, client OpenSSH_7.6p1)
-05/16/2019 07:44:40 PM Authentication (password) failed.
-05/16/2019 07:45:03 PM -------------------------------
-05/16/2019 07:45:03 PM starting ssh session to 10.0.10.50
-05/16/2019 07:45:03 PM initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-05/16/2019 07:45:03 PM Connected (version 2.0, client OpenSSH_7.6p1)
-05/16/2019 07:45:03 PM Authentication (password) successful!
-05/16/2019 07:45:03 PM changing directory to /ftproot/clients/
-05/16/2019 07:45:03 PM listing directory /ftproot/clients/
-05/16/2019 07:45:04 PM /ftproot/clients/testuser/production/input
-05/16/2019 07:45:04 PM path E:\ftproot\clients\testuser\production\input does not exists
-05/16/2019 08:07:01 PM -------------------------------
-05/16/2019 08:07:01 PM starting ssh session to 10.0.10.50
-05/16/2019 08:07:01 PM initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-05/16/2019 08:07:01 PM Connected (version 2.0, client OpenSSH_7.6p1)
-05/16/2019 08:07:01 PM Authentication (password) successful!
-05/16/2019 08:07:01 PM changing directory to /ftproot/clients/
-05/16/2019 08:07:01 PM listing directory /ftproot/clients/
-05/16/2019 08:07:01 PM /ftproot/clients/testuser/production/input
-2019-05-17 11:18:56,891 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 11:18:56,891 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 11:18:56,891 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 11:30:32,345 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 11:30:32,345 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 11:30:32,346 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 11:30:32,352 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 11:30:32,601 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 11:30:32,602 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 11:30:32,602 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 11:30:33,126 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 11:33:14,884 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 11:33:14,885 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 11:33:14,885 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 11:33:14,889 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 11:33:14,984 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 11:33:14,985 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 11:33:14,986 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 11:33:27,119 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 11:33:27,120 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 11:33:27,120 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 11:33:27,125 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 11:33:27,218 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 11:33:27,218 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 11:33:27,219 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 11:33:27,721 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 11:33:27,722 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 11:38:19,419 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 11:38:19,419 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 11:38:19,419 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 11:38:19,424 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 11:38:19,516 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 11:38:19,517 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 11:38:19,518 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:39:02,515 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:39:02,516 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:39:02,516 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:39:02,521 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:39:02,619 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:39:02,620 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:39:02,621 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:39:31,359 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:39:31,359 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:39:31,360 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:39:31,364 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:39:31,456 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:39:31,456 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:39:31,456 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:39:31,957 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:39:31,958 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:39:32,008 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:39:32,008 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\production\output does not exists
-2019-05-17 12:39:32,058 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:39:32,058 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\production\outputpdf does not exists
-2019-05-17 12:39:32,109 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:39:32,109 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\input does not exists
-2019-05-17 12:39:32,156 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:39:32,157 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\output does not exists
-2019-05-17 12:39:32,208 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:39:32,209 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\outputpdf does not exists
-2019-05-17 12:39:32,256 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:39:32,257 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:39:32,257 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\input does not exists
-2019-05-17 12:39:32,323 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:39:32,325 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\output does not exists
-2019-05-17 12:39:32,382 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:39:32,383 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\outputpdf does not exists
-2019-05-17 12:39:32,432 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:39:32,433 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\input does not exists
-2019-05-17 12:39:32,480 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:39:32,481 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\output does not exists
-2019-05-17 12:39:32,488 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:39:32,489 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\outputpdf does not exists
-2019-05-17 12:39:32,539 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 12:40:30,779 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:40:30,780 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:40:30,780 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:40:30,785 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:40:30,881 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:40:30,882 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:40:30,882 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:40:31,399 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:40:31,400 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:40:31,400 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:40:31,401 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:40:31,402 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:40:31,403 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:40:31,404 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:40:31,404 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:40:31,405 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:40:31,405 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:40:31,406 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:40:31,406 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:40:31,407 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:40:31,410 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:40:31,411 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 12:49:32,052 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:49:32,053 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:49:32,053 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:49:32,058 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:49:32,152 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:49:32,153 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:49:32,153 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:49:32,671 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:49:32,672 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:49:32,672 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:49:32,672 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:49:32,673 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:49:32,673 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:49:32,673 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:49:32,674 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:49:32,674 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:49:32,674 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:49:32,675 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:49:32,675 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:49:32,677 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:49:32,677 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:49:32,677 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 12:50:18,918 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:50:18,918 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:50:18,919 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:50:18,924 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:50:19,020 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:50:19,021 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:50:19,022 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:50:19,535 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:50:19,536 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:50:19,536 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\production\input does not exists
-2019-05-17 12:50:19,537 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:50:19,537 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\production\output does not exists
-2019-05-17 12:50:19,538 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:50:19,538 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\production\outputpdf does not exists
-2019-05-17 12:50:19,538 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:50:19,539 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\input does not exists
-2019-05-17 12:50:19,539 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:50:19,540 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\output does not exists
-2019-05-17 12:50:19,540 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:50:19,540 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser\test\outputpdf does not exists
-2019-05-17 12:50:19,540 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:50:19,541 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:50:19,541 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\input does not exists
-2019-05-17 12:50:19,541 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:50:19,542 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\output does not exists
-2019-05-17 12:50:19,542 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:50:19,543 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\production\outputpdf does not exists
-2019-05-17 12:50:19,543 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:50:19,543 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\input does not exists
-2019-05-17 12:50:19,544 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:50:19,544 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\output does not exists
-2019-05-17 12:50:19,545 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:50:19,545 [MainThread  ] [INFO ]  path E:\ftproot\clients\testuser2\test\outputpdf does not exists
-2019-05-17 12:50:19,545 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 12:50:48,880 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:50:48,880 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:50:48,880 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:50:48,885 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:50:48,982 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:50:48,982 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:50:48,983 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:50:49,493 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:50:49,494 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:50:49,494 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:50:49,495 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:50:49,495 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:50:49,496 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:50:49,496 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:50:49,497 [MainThread  ] [INFO ]  im in /ftproot/clients/
-2019-05-17 12:50:49,497 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:50:49,497 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:50:49,498 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:50:49,498 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:50:49,498 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:50:49,499 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:50:49,499 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 12:57:11,633 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 12:57:11,633 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 12:57:11,634 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 12:57:11,639 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 12:57:11,733 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 12:57:11,733 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 12:57:11,734 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 12:57:12,237 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 12:57:12,239 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 12:57:12,239 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 12:57:12,240 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 12:57:12,240 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 12:57:12,240 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 12:57:12,241 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 12:57:12,241 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 12:57:12,242 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 12:57:12,242 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 12:57:12,242 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 12:57:12,243 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 12:57:12,243 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 13:42:36,541 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 13:42:36,541 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 13:42:36,541 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 13:42:36,546 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 13:42:36,639 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 13:42:36,640 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 13:42:36,640 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 13:42:37,153 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 13:42:37,153 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 13:42:37,154 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 13:42:37,154 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 13:42:37,155 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 13:42:37,155 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 13:42:37,155 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 13:42:37,156 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 13:42:37,156 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 13:42:37,157 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 13:42:37,157 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 13:42:37,157 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 13:42:37,158 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 13:42:37,158 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 13:42:37,159 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 13:42:37,159 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 13:42:37,159 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 13:42:37,160 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 13:42:37,160 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 13:42:37,160 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 13:42:37,161 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 13:42:37,161 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 13:42:37,162 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 13:42:37,163 [MainThread  ] [INFO ]  transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 13:42:37,163 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 13:43:00,776 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 13:43:00,776 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 13:43:00,777 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 13:43:00,781 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 13:43:00,876 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 13:43:00,877 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 13:43:00,877 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 13:43:01,377 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 13:43:01,377 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 13:43:01,378 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 13:43:01,378 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 13:43:01,379 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 13:43:01,380 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 13:43:01,380 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 13:43:01,380 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 13:43:01,381 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 13:43:01,381 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 13:43:01,382 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 13:43:01,382 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 13:43:01,383 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 13:43:01,383 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 13:43:01,383 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 13:43:01,384 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 13:43:01,384 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 13:43:01,384 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 13:43:01,385 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 13:43:01,385 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 13:43:01,387 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 13:43:01,387 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 13:43:01,387 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 13:43:01,388 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 13:43:01,388 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 13:46:59,986 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 13:46:59,987 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 13:46:59,987 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 13:46:59,992 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 13:47:00,087 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 13:47:00,087 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 13:47:00,088 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 13:47:00,601 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 13:47:00,602 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 13:47:00,603 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 13:47:00,603 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 13:47:00,604 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 13:47:00,604 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 13:47:00,605 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 13:47:00,605 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 13:47:00,605 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 13:47:00,606 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 13:47:00,606 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 13:47:00,607 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 13:47:00,607 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 13:47:00,608 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 13:47:00,608 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 13:47:00,608 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 13:47:00,609 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 13:47:00,609 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 13:47:00,609 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 13:47:00,610 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 13:47:00,610 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 13:47:00,610 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 13:47:00,611 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 13:47:00,612 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 13:47:00,612 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 13:47:47,097 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 13:47:47,098 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 13:47:47,099 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 13:47:47,103 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 13:47:47,209 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 13:47:47,209 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 13:47:47,210 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 13:47:47,707 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 13:47:47,708 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 13:47:47,708 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 13:47:47,708 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 13:47:47,709 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 13:47:47,709 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 13:47:47,710 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 13:47:47,710 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 13:47:47,711 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 13:47:47,711 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 13:47:47,711 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 13:47:47,712 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 13:47:47,712 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 13:47:47,712 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 13:47:47,713 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 13:47:47,713 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 13:47:47,713 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 13:47:47,714 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 13:47:47,714 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 13:47:47,714 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 13:47:47,715 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 13:47:47,715 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 13:47:47,715 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 13:47:47,716 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 13:47:47,716 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 15:41:45,835 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:41:45,835 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:41:45,836 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:41:45,843 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:41:45,936 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:41:45,936 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:41:45,937 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:41:46,456 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:41:46,457 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:41:46,458 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 15:41:46,458 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 15:41:46,459 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 15:41:46,459 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 15:41:46,460 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 15:41:46,460 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 15:41:46,460 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 15:41:46,461 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 15:41:46,461 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 15:41:46,461 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 15:41:46,462 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 15:41:46,462 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 15:41:46,463 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 15:41:46,463 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 15:41:46,464 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 15:41:46,464 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 15:41:46,465 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 15:41:46,465 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 15:41:46,465 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 15:41:46,466 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 15:41:46,466 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 15:41:46,467 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 15:41:46,467 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 15:43:43,207 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:43:43,208 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:43:43,208 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:43:43,213 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:43:43,310 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:43:43,311 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:43:43,311 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:43:43,822 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:43:43,823 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:46:25,794 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:46:25,795 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:46:25,795 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:46:25,798 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:46:25,891 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:46:25,892 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:46:25,893 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:46:26,402 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:46:26,403 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:47:55,179 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:47:55,180 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:47:55,180 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:47:55,185 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:47:55,277 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:47:55,278 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:47:55,278 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:47:55,773 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:47:55,774 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:51:15,967 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:51:15,968 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:51:15,968 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:51:15,973 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:51:16,085 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:51:16,085 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:51:16,086 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:51:16,602 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:51:16,602 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:51:16,610 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:51:16,663 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:51:17,168 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:51:17,223 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:57:54,650 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:57:54,650 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:57:54,651 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:57:54,655 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:57:54,751 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:57:54,752 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:57:54,752 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:57:55,274 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:57:55,275 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:57:55,283 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:57:55,336 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:57:55,825 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:57:55,828 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:58:19,549 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 15:58:19,550 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 15:58:19,550 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 15:58:19,555 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:58:19,648 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:58:19,649 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 15:58:19,649 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 15:58:20,176 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 15:58:20,177 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 15:58:20,184 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:58:20,235 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:58:20,724 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:58:24,633 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:58:24,634 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 15:58:24,634 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 15:58:24,634 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 15:58:24,635 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 15:58:24,635 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 15:58:24,636 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 15:58:24,643 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:58:24,696 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:58:25,190 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:58:26,465 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:58:26,466 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 15:58:26,467 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 15:58:26,467 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 15:58:26,467 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 15:58:26,468 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 15:58:26,468 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 15:58:26,474 [Thread-216  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:58:26,528 [Thread-216  ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:58:27,018 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:58:27,021 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:58:27,021 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 15:58:27,022 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 15:58:27,022 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 15:58:27,023 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 15:58:27,023 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 15:58:27,024 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 15:58:27,029 [Thread-218  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 15:58:27,085 [Thread-218  ] [INFO ]  Authentication (password) successful!
-2019-05-17 15:58:27,592 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 15:58:27,595 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 15:58:27,595 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 15:58:27,596 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 15:58:27,596 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 15:58:27,596 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 15:58:27,597 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 16:02:52,912 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 16:02:52,913 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 16:02:52,913 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 16:02:52,918 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:02:53,011 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:02:53,011 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 16:02:53,012 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 16:02:53,536 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 16:02:53,537 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 16:02:53,545 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:02:53,599 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:02:54,098 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:02:57,920 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:02:57,920 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 16:02:57,921 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 16:02:57,921 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 16:02:57,922 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 16:02:57,922 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 16:02:57,923 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 16:02:57,928 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:02:57,983 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:02:58,494 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:02:59,101 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:02:59,101 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 16:02:59,102 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 16:02:59,102 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 16:02:59,102 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 16:02:59,103 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 16:02:59,103 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 16:02:59,110 [Thread-216  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:02:59,163 [Thread-216  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:02:59,662 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:02:59,665 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:02:59,665 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 16:02:59,666 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 16:02:59,666 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 16:02:59,667 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 16:02:59,667 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 16:02:59,668 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 16:02:59,675 [Thread-218  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:02:59,726 [Thread-218  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:03:00,242 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:03:00,245 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:03:00,245 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 16:03:00,246 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 16:03:00,246 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
-2019-05-17 16:03:00,247 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/outputpdf <- E:\ftproot\clients\testuser2\test\outputpdf
-2019-05-17 16:03:00,247 [MainThread  ] [INFO ]  closing ssh connection
-2019-05-17 16:12:24,693 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 16:12:24,694 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 16:12:24,694 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 16:12:24,699 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:12:24,793 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:12:24,794 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 16:12:24,795 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 16:12:25,293 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 16:12:25,294 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 16:12:25,301 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:12:25,354 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:12:25,853 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:12:29,664 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:12:29,665 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 16:12:29,665 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 16:12:29,673 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:12:29,725 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:12:30,221 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:12:30,222 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:33:09,208 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 16:33:09,209 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 16:33:09,209 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 16:33:09,218 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:33:09,317 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:33:09,317 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 16:33:09,318 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 16:33:09,828 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 16:33:09,829 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 16:33:09,837 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:33:09,888 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:33:10,389 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:33:14,717 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:33:14,718 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 16:33:14,718 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 16:33:14,727 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:33:14,779 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:55:59,163 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 16:55:59,163 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 16:55:59,164 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 16:55:59,169 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:55:59,263 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:55:59,264 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 16:55:59,265 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 16:55:59,813 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 16:55:59,814 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 16:55:59,822 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:55:59,877 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:56:00,384 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:56:04,686 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:56:04,686 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 16:56:04,687 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 16:56:04,692 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:56:04,748 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:47,707 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 16:57:47,707 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 16:57:47,708 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 16:57:47,713 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:47,809 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:47,810 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 16:57:47,810 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 16:57:48,322 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 16:57:48,323 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 16:57:48,331 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:48,385 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:48,890 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:57:52,540 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:57:52,541 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 16:57:52,541 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 16:57:52,549 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:52,605 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:52,606 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 16:57:52,606 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 16:57:52,619 [Thread-95   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:52,677 [Thread-95   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:52,678 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 16:57:52,679 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 16:57:52,688 [Thread-97   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:52,748 [Thread-97   ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:54,092 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:57:54,751 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:57:54,751 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 16:57:54,752 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 16:57:54,759 [Thread-220  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:54,813 [Thread-220  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:54,814 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 16:57:54,814 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 16:57:54,827 [Thread-222  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:54,887 [Thread-222  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:54,888 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 16:57:54,888 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 16:57:54,898 [Thread-224  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:54,958 [Thread-224  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:56,311 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:57:56,313 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:57:56,314 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 16:57:56,314 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 16:57:56,320 [Thread-226  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:56,377 [Thread-226  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:56,378 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 16:57:56,379 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 16:57:56,390 [Thread-228  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:56,449 [Thread-228  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:56,450 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 16:57:56,450 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 16:57:56,459 [Thread-230  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:56,524 [Thread-230  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:57,862 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:57:57,865 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 16:57:57,866 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 16:57:57,866 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 16:57:57,874 [Thread-232  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 16:57:57,932 [Thread-232  ] [INFO ]  Authentication (password) successful!
-2019-05-17 16:57:58,431 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 16:57:58,435 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 21:30:34,988 [MainThread  ] [INFO ]  -------------------------------
-2019-05-17 21:30:34,989 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
-2019-05-17 21:30:34,989 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
-2019-05-17 21:30:34,994 [Thread-2    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:35,215 [Thread-2    ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:35,216 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
-2019-05-17 21:30:35,216 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
-2019-05-17 21:30:36,410 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
-2019-05-17 21:30:36,410 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/production/input -> E:\ftproot\clients\testuser\production\input
-2019-05-17 21:30:36,436 [Thread-4    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:36,494 [Thread-4    ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:37,454 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 21:30:41,859 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 21:30:41,860 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
-2019-05-17 21:30:41,861 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/output <- E:\ftproot\clients\testuser\production\output
-2019-05-17 21:30:41,866 [Thread-93   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:41,920 [Thread-93   ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:41,921 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
-2019-05-17 21:30:41,921 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/production/outputpdf <- E:\ftproot\clients\testuser\production\outputpdf
-2019-05-17 21:30:41,932 [Thread-95   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:41,994 [Thread-95   ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:41,995 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
-2019-05-17 21:30:41,995 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser/test/input -> E:\ftproot\clients\testuser\test\input
-2019-05-17 21:30:42,002 [Thread-97   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:42,059 [Thread-97   ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:43,403 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 21:30:44,286 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 21:30:44,287 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
-2019-05-17 21:30:44,287 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/output <- E:\ftproot\clients\testuser\test\output
-2019-05-17 21:30:44,292 [Thread-220  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:44,348 [Thread-220  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:44,349 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
-2019-05-17 21:30:44,350 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser/test/outputpdf <- E:\ftproot\clients\testuser\test\outputpdf
-2019-05-17 21:30:44,364 [Thread-222  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:44,419 [Thread-222  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:44,420 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
-2019-05-17 21:30:44,421 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/production/input -> E:\ftproot\clients\testuser2\production\input
-2019-05-17 21:30:44,435 [Thread-224  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:44,490 [Thread-224  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:45,855 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 21:30:45,858 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 21:30:45,858 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
-2019-05-17 21:30:45,859 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/output <- E:\ftproot\clients\testuser2\production\output
-2019-05-17 21:30:45,864 [Thread-226  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:45,915 [Thread-226  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:45,916 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
-2019-05-17 21:30:45,917 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/production/outputpdf <- E:\ftproot\clients\testuser2\production\outputpdf
-2019-05-17 21:30:45,928 [Thread-228  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:45,988 [Thread-228  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:45,988 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
-2019-05-17 21:30:45,989 [MainThread  ] [INFO ]  INPUT transfer: /ftproot/clients/testuser2/test/input -> E:\ftproot\clients\testuser2\test\input
-2019-05-17 21:30:46,004 [Thread-230  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:46,061 [Thread-230  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:47,438 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 21:30:47,441 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
-2019-05-17 21:30:47,441 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
-2019-05-17 21:30:47,442 [MainThread  ] [INFO ]  OUTPUT transfer: /ftproot/clients/testuser2/test/output <- E:\ftproot\clients\testuser2\test\output
-2019-05-17 21:30:47,446 [Thread-232  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
-2019-05-17 21:30:47,500 [Thread-232  ] [INFO ]  Authentication (password) successful!
-2019-05-17 21:30:47,988 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
-2019-05-17 21:30:47,994 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:58:49,443 [MainThread  ] [INFO ]  -------------------------------
+2019-05-20 19:58:49,444 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
+2019-05-20 19:58:49,445 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
+2019-05-20 19:58:49,450 [Thread-6    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:49,586 [Thread-6    ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:49,587 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
+2019-05-20 19:58:49,587 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
+2019-05-20 19:58:50,125 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
+2019-05-20 19:58:50,133 [Thread-8    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:50,189 [Thread-8    ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:50,681 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 19:58:56,260 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:58:56,261 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
+2019-05-20 19:58:56,270 [Thread-97   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:56,325 [Thread-97   ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:56,327 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
+2019-05-20 19:58:56,341 [Thread-99   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:56,398 [Thread-99   ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:56,399 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
+2019-05-20 19:58:56,412 [Thread-101  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:56,467 [Thread-101  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:57,805 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 19:58:59,024 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:58:59,025 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
+2019-05-20 19:58:59,034 [Thread-224  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:59,090 [Thread-224  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:59,091 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
+2019-05-20 19:58:59,132 [Thread-226  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:59,191 [Thread-226  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:58:59,192 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
+2019-05-20 19:58:59,218 [Thread-228  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:58:59,280 [Thread-228  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:00,591 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 19:59:00,595 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:59:00,596 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
+2019-05-20 19:59:00,600 [Thread-230  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:59:00,658 [Thread-230  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:00,659 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
+2019-05-20 19:59:00,673 [Thread-232  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:59:00,729 [Thread-232  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:00,730 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
+2019-05-20 19:59:00,745 [Thread-234  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:59:00,820 [Thread-234  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:02,195 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 19:59:02,198 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:59:02,199 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
+2019-05-20 19:59:02,206 [Thread-236  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:59:02,261 [Thread-236  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:02,263 [MainThread  ] [INFO ]  Check if destination folder already exist, no transfer if exist
+2019-05-20 19:59:02,752 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 19:59:02,753 [MainThread  ] [INFO ]  Creating destination folder: /ftproot/clients/testuser2/test/output/syslinux-6.04
+2019-05-20 19:59:02,755 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 19:59:02,756 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
+2019-05-20 19:59:02,761 [Thread-238  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 19:59:02,825 [Thread-238  ] [INFO ]  Authentication (password) successful!
+2019-05-20 19:59:02,827 [MainThread  ] [INFO ]  closing ssh connection
+2019-05-20 20:01:33,033 [MainThread  ] [INFO ]  -------------------------------
+2019-05-20 20:01:33,034 [MainThread  ] [INFO ]  starting ssh session to 10.0.10.50
+2019-05-20 20:01:33,035 [MainThread  ] [INFO ]  initial configuration: server:10.0.10.50 username:mateusz ftproot:/ftproot/clients/ localroot:E:\ftproot\clients
+2019-05-20 20:01:33,040 [Thread-6    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:33,175 [Thread-6    ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:33,176 [MainThread  ] [INFO ]  changing directory to /ftproot/clients/
+2019-05-20 20:01:33,177 [MainThread  ] [INFO ]  listing directory /ftproot/clients/
+2019-05-20 20:01:33,673 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/input
+2019-05-20 20:01:33,685 [Thread-8    ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:33,740 [Thread-8    ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:34,235 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 20:01:39,715 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 20:01:39,716 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/output
+2019-05-20 20:01:39,722 [Thread-97   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:39,784 [Thread-97   ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:39,787 [MainThread  ] [INFO ]  /ftproot/clients/testuser/production/outputpdf
+2019-05-20 20:01:39,801 [Thread-99   ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:39,859 [Thread-99   ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:39,860 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/input
+2019-05-20 20:01:39,871 [Thread-101  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:39,932 [Thread-101  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:41,263 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 20:01:42,481 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 20:01:42,483 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/output
+2019-05-20 20:01:42,491 [Thread-224  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:42,544 [Thread-224  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:42,545 [MainThread  ] [INFO ]  /ftproot/clients/testuser/test/outputpdf
+2019-05-20 20:01:42,586 [Thread-226  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:42,652 [Thread-226  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:42,653 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/input
+2019-05-20 20:01:42,670 [Thread-228  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:42,727 [Thread-228  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:44,036 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 20:01:44,040 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 20:01:44,041 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/output
+2019-05-20 20:01:44,047 [Thread-230  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:44,107 [Thread-230  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:44,107 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/production/outputpdf
+2019-05-20 20:01:44,123 [Thread-232  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:44,182 [Thread-232  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:44,183 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/input
+2019-05-20 20:01:44,188 [Thread-234  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:44,249 [Thread-234  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:45,568 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 20:01:45,572 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 20:01:45,573 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/output
+2019-05-20 20:01:45,587 [Thread-236  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:45,640 [Thread-236  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:45,641 [MainThread  ] [INFO ]  Check if destination folder already exist
+2019-05-20 20:01:46,132 [MainThread  ] [INFO ]  [chan 0] Opened sftp connection (server version 3)
+2019-05-20 20:01:46,135 [MainThread  ] [INFO ]  Check if destination folder already exist
+2019-05-20 20:01:46,154 [MainThread  ] [INFO ]  [chan 0] sftp session closed.
+2019-05-20 20:01:46,155 [MainThread  ] [INFO ]  /ftproot/clients/testuser2/test/outputpdf
+2019-05-20 20:01:46,161 [Thread-238  ] [INFO ]  Connected (version 2.0, client OpenSSH_7.6p1)
+2019-05-20 20:01:46,216 [Thread-238  ] [INFO ]  Authentication (password) successful!
+2019-05-20 20:01:46,217 [MainThread  ] [INFO ]  closing ssh connection

@@ -58,7 +58,7 @@ def main():
             localfolder = localroot + "\\" + cli + f.serverPathToWindowsPath(serverdir)
             logging.info(serverfolder)
             if not os.path.exists(localfolder):
-                logging.info("path " + localfolder + " does not exists, creating")
+                logging.info("path " + localfolder + " does not exist, creating")
                 os.makedirs(localfolder)
             #sfiles = f.ssh_command(ssh, "ls " + ftproot + cli + serverdir)
             #proba usunięcia newline
@@ -67,13 +67,13 @@ def main():
             #input - transfer server -> client
 #Region Server INPUT
             if "input" in serverdir:
-                logging.info("INPUT transfer: " + serverfolder + " -> " + localfolder)
+                #logging.info("INPUT transfer: " + serverfolder + " -> " + localfolder)
                 f.sync_server_remote_to_local(username = username, password = password, server = server, remotedir = serverfolder, localdir = localfolder)
 #EndRegion
 #Region Server OUTPUT
             #transfer client -> server
             elif "output" in serverdir:
-                logging.info("OUTPUT transfer: " + serverfolder + " <- " + localfolder)
+                #logging.info("OUTPUT transfer: " + serverfolder + " <- " + localfolder)
                 f.sync_server_local_to_remote(username = username, password = password, server = server, remotedir = serverfolder, localdir = localfolder)
 #EndRegion
                 #directory syncing
