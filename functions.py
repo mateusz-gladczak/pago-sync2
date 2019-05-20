@@ -69,14 +69,11 @@ def dirTree(serverdir):
         for f in files:
             print (f)
 
-
 def sync_server_remote_to_local(username, password, server, remotedir, localdir):
     import pysftp
     cnopts = pysftp.CnOpts()
     cnopts.hostkeys = None
     with pysftp.Connection(host=server, username = username, password = password, cnopts = cnopts) as sftp:
-    #with pysftp.Connection(server, username, password,cnopts=cnopts) as sftp:
-        #sftp.get_r(remotedir, localdir)
         get_r_portable(sftp, remotedir, localdir, preserve_mtime=False)
         sftp.close()
 
@@ -85,12 +82,8 @@ def sync_server_local_to_remote(username, password, server, remotedir, localdir)
     cnopts = pysftp.CnOpts()
     cnopts.hostkeys = None
     with pysftp.Connection(host=server, username = username, password = password, cnopts = cnopts) as sftp:
-    #with pysftp.Connection(server, username, password,cnopts=cnopts) as sftp:
-        #sftp.get_r(remotedir, localdir)
         put_r_portable(sftp, remotedir, localdir, preserve_mtime=False)
         sftp.close()
-
-
 
 def get_r_portable(sftp, remotedir, localdir, preserve_mtime=False):
     import os
@@ -113,20 +106,14 @@ def put_r_portable(sftp, remotedir, localdir, preserve_mtime=False):
     from stat import S_IMODE, S_ISDIR, S_ISREG
     for entry in os.listdir(localdir):
         remotepath = remotedir + "/" + entry
-        #print("remotepath - put_r_portable: " + remotepath)
         localpath = os.path.join(localdir, entry)
-        #print("localpath - put_r_portable: " + localpath)
         mode = os.stat(localpath).st_mode
         if S_ISDIR(mode):
-            logging.info("Check if destination folder already exist")
             try:
                 result = sftp.chdir(remotepath)
-                print(result + "<- wynik sprawdzenia czy istnieje i przechodzę do próby założenia katalogu")
             except:
                 try:
-                    #print("trying to create " + remotepath)
                     sftp.mkdir(remotepath)
-                    print('katalog założony')
                 except Exception as e:     # dir exists
                     print(e)
             try: #try transfer of file
@@ -134,5 +121,4 @@ def put_r_portable(sftp, remotedir, localdir, preserve_mtime=False):
             except Exception as e:
                 print(e)
         elif S_ISREG(mode):
-            print("isreg true")
             sftp.put(localpath, remotepath, preserve_mtime=preserve_mtime)
