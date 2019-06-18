@@ -122,3 +122,10 @@ def put_r_portable(sftp, remotedir, localdir, preserve_mtime=False):
                 print(e)
         elif S_ISREG(mode):
             sftp.put(localpath, remotepath, preserve_mtime=preserve_mtime)
+
+def sftpclone_server_local_to_remote(username, password, server, remotedir, localdir):
+    from sftpclone import sftpclone
+    sftpclone.SFTPClone(localdir, "{}:{}@{}:{}".format(username, password, server, remotedir)).run()
+
+#https://programtalk.com/python-examples/sftpclone.sftpclone.SFTPClone/
+#https://stackoverflow.com/questions/4409502/directory-transfers-on-paramiko
